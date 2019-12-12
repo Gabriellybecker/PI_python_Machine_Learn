@@ -39,7 +39,7 @@ Y_treino = Y[:int(divisao*n_samples)]
 
 plt.rcParams['figure.figsize'] = (11,7)
 
-plt.ylabel("Preços", color='#22a6b3', size = 19)
+plt.ylabel("Precos", color='#22a6b3', size = 19)
 plt.xlabel("Marcas", color ='#22a6b3', size = 19)
 plt.title("Valores de celulares a partir do preço", color = '#22a6b3', size = 20)
 plt.tick_params(axis='y',color ='#f9ca24', size = 20)
